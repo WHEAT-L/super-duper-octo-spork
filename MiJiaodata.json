@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": "cXdlcXdlMijiaoqweqwe",
+      "usname": "qweqwe",
+      "uspwd": "qweqwe",
+      "token": "cXdlcXdlMijiaoqweqwe",
+      "gouwuche": [
+        {
+          "specification": "Redmi K7012GB+256GB竹月蓝",
+          "imgs": "http://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202311281408_27283e727a2cd3aac2d84954fc992244.png",
+          "price": 2299,
+          "name": "Redmi K70",
+          "shipments": false,
+          "qianshou": false,
+          "id": "19432",
+          "check": false,
+          "num": 3
+        },
+        {
+          "specification": "Redmi Note 13 Pro16GB+512GB子夜黑",
+          "imgs": "http://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202309200030_e23db78cea56f2fbe339bc8eb9fdf86e.png",
+          "price": 1899,
+          "name": "Redmi Note 13 Pro",
+          "shipments": false,
+          "qianshou": false,
+          "id": "19184",
+          "check": false,
+          "num": 1
+        }
+      ]
+    },
+    {
+      "id": "MTIzMTIzMijiao123123",
+      "usname": "123123",
+      "uspwd": "123123",
+      "token": "MTIzMTIzMijiao123123",
+      "gouwuche": [
+        {
+          "specification": "Xiaomi 138GB+256GB白色",
+          "imgs": "http://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202212091604_825be80329d2c3d6fcaeadd4e0b9e38c.png",
+          "price": 2999,
+          "name": "Xiaomi 13",
+          "shipments": false,
+          "qianshou": false,
+          "id": "17971",
+          "check": false,
+          "num": 2
+        },
+        {
+          "specification": "Xiaomi 138GB+256GB旷野绿",
+          "imgs": "http://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202212091604_666313923bae809db273fc9f9fff5486.png",
+          "price": 2999,
+          "name": "Xiaomi 13",
+          "shipments": false,
+          "qianshou": false,
+          "id": "17971",
+          "check": false,
+          "num": 2
+        },
+        {
+          "specification": "Xiaomi 138GB+256GB黑色",
+          "imgs": "http://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211292354_3561d2993d555486f6504a7c37b62439.png",
+          "price": 2999,
+          "name": "Xiaomi 13",
+          "shipments": false,
+          "qianshou": false,
+          "id": "17971",
+          "check": false,
+          "num": 1
+        },
+        {
+          "specification": "Xiaomi 138GB+256GB远山蓝",
+          "imgs": "http://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202212091604_94c6497b70f2e881460cb232082a0da6.png",
+          "price": 2999,
+          "name": "Xiaomi 13",
+          "shipments": false,
+          "qianshou": false,
+          "id": "17971",
+          "check": false,
+          "num": 2
+        }
+      ]
+    }
+  ]
+}
